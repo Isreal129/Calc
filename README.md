@@ -91,7 +91,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Screenshot 2024-04-17 094446](https://github.com/Isreal129/Calc/assets/125784931/f8e60c75-3d8e-47ca-8e6a-62a7a1da9da8)
+![Screenshot 2024-04-17 094446](https://github.com/Isreal129/Calc/assets/125784931/c7de045c-5e1b-40f7-83cf-67598ebeaef0)
+
 ![Screenshot 2024-04-17 094518](https://github.com/Isreal129/Calc/assets/125784931/db4b8026-2ee7-4d61-8b77-7ed23e5c8fd0)
 
 
